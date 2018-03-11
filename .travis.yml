@@ -25,7 +25,7 @@ addons:
   apt:
     packages:
       - libgmp-dev
-      - ghc
+      - ghc-8.2
       # this installs an older version of cabal which doesn't support new-build
       #- cabal-install
 
